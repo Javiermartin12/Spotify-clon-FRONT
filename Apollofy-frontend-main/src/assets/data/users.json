@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Javier",
+      "last_name": "Martin",
+      "email": "j.com",
+      "password": "javi",
+      "city": "Almeria",
+      "gender": "Mal",
+      "profilePicture": "https://avataaars.io/?accessoriesType=Wayfarers&avatarStyle=Circle&clotheColor=Blue01&clotheType=Overall&eyeType=Close&eyebrowType=UpDownNatural&facialHairColor=Blonde&facialHairType=BeardMagestic&hairColor=Blonde&hatColor=Gray01&mouthType=Grimace&skinColor=Light&topType=ShortHairShaggyMullet",
+      "country": "Spain",
+      "dateOfBirth": "1997-11-12",
+      "likedSongs": []
+    },
+    {
+      "id": "2",
+      "name": "Lucia",
+      "last_name": "Mercorelli",
+      "email": "lucia@lucia.com",
+      "password": "lucialucia",
+      "city": "Barcelona",
+      "gender": "Female",
+      "profilePicture": "https://avataaars.io/?accessoriesType=Wayfarers&avatarStyle=Circle&clotheColor=Pink&clotheType=ShirtScoopNeck&eyeType=Side&eyebrowType=SadConcerned&facialHairColor=Auburn&facialHairType=Blank&hairColor=Black&hatColor=PastelOrange&mouthType=ScreamOpen&skinColor=Yellow&topType=ShortHairTheCaesarSidePart",
+      "country": "Spain",
+      "dateOfBirth": "1982-12-16",
+      "likedSongs": []
+    },
+    {
+      "id": "3",
+      "name": "Eira",
+      "last_name": "Melé",
+      "email": "eira@eira.com",
+      "password": "eiraeira",
+      "city": "Barcelona",
+      "gender": "Female",
+      "profilePicture": "https://avataaars.io/?accessoriesType=Wayfarers&avatarStyle=Circle&clotheColor=PastelRed&clotheType=BlazerSweater&eyeType=EyeRoll&eyebrowType=DefaultNatural&facialHairColor=Brown&facialHairType=BeardMagestic&hairColor=Platinum&hatColor=Gray02&mouthType=Eating&skinColor=Brown&topType=LongHairFro",
+      "country": "Spain",
+      "dateOfBirth": "1986-06-25",
+      "likedSongs": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Alvaro",
+      "last_name": "del Cacho",
+      "email": "alvaro@alvaro.com",
+      "password": "alvaroalvaro",
+      "city": "Valencia",
+      "gender": "Male",
+      "profilePicture": "https://avataaars.io/?accessoriesType=Prescription02&avatarStyle=Circle&clotheColor=Blue02&clotheType=BlazerSweater&eyeType=WinkWacky&eyebrowType=UnibrowNatural&facialHairColor=Platinum&facialHairType=BeardMedium&hairColor=Red&hatColor=Blue02&mouthType=Concerned&skinColor=Pale&topType=LongHairShavedSides",
+      "country": "Spain",
+      "dateOfBirth": "1999-11-18",
+      "likedSongs": []
+    },
+    {
+      "id": "5",
+      "name": "Ander",
+      "last_name": "Aldabaldetreku",
+      "email": "ander@ander.com",
+      "password": "anderander",
+      "city": "Orio",
+      "gender": "tiburon",
+      "profilePicture": "https://avataaars.io/?accessoriesType=Prescription01&avatarStyle=Circle&clotheColor=PastelGreen&clotheType=ShirtVNeck&eyeType=Happy&eyebrowType=Default&facialHairColor=Brown&facialHairType=BeardLight&hairColor=Platinum&hatColor=PastelOrange&mouthType=Disbelief&skinColor=Brown&topType=ShortHairShortCurly",
+      "country": "Spain",
+      "dateOfBirth": "1987-07-03",
+      "likedSongs": [
+        17,
+        7,
+        14,
+        13,
+        18,
+        1
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Ariadna",
+      "last_name": "Melé",
+      "email": "ariadna@ariadna.com",
+      "password": "ariadnaariadna",
+      "city": "Barcelona",
+      "gender": "Female",
+      "profilePicture": "https://avataaars.io/?accessoriesType=Kurt&avatarStyle=Circle&clotheColor=PastelBlue&clotheType=BlazerSweater&eyeType=Hearts&eyebrowType=AngryNatural&facialHairColor=Platinum&facialHairType=BeardLight&hairColor=Blonde&hatColor=Heather&mouthType=Grimace&skinColor=Pale&topType=ShortHairDreads02",
+      "country": "Spain",
+      "dateOfBirth": "2020-04-27",
+      "likedSongs": [
+        5
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Jose",
+      "last_name": "Enrique",
+      "email": "enrique@enrique.com",
+      "password": "enriqueenrique",
+      "city": "malos aires",
+      "gender": "tiburon",
+      "profilePicture": "",
+      "country": "Spain",
+      "dateOfBirth": "2024-03-10",
+      "likedSongs": []
+    },
+    {
+      "id": "8",
+      "name": "mikel",
+      "last_name": "mikel",
+      "email": "mikel@mikel.com",
+      "password": "mikelmikel",
+      "city": "mikel",
+      "gender": "gato",
+      "profilePicture": "https://avataaars.io/?accessoriesType=Prescription01&avatarStyle=Circle&clotheColor=PastelYellow&clotheType=Overall&eyeType=WinkWacky&eyebrowType=Default&facialHairColor=Blonde&facialHairType=BeardLight&hairColor=Auburn&hatColor=Black&mouthType=Disbelief&skinColor=Pale&topType=Hijab",
+      "country": "mikel",
+      "dateOfBirth": "2024-03-12",
+      "likedSongs": []
+    },
+    {
+      "id": "9",
+      "name": "miren",
+      "last_name": "miren",
+      "email": "miren@miren.com",
+      "password": "mirenmiren",
+      "city": "miren",
+      "gender": "asdf",
+      "profilePicture": "https://avataaars.io/?accessoriesType=Kurt&avatarStyle=Circle&clotheColor=Black&clotheType=CollarSweater&eyeType=Wink&eyebrowType=Angry&facialHairColor=Brown&facialHairType=MoustacheMagnum&hairColor=Black&hatColor=Pink&mouthType=Vomit&skinColor=DarkBrown&topType=ShortHairFrizzle",
+      "country": "miren",
+      "dateOfBirth": "2024-03-04",
+      "likedSongs": []
+    }
+  ]
+}

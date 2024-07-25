@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Violator",
+    "imageUrl": "https://res.cloudinary.com/dmnyizy0f/image/upload/v1710098841/suddrpffcc9fjoy3alyy.jpg",
+    "artist": "Depeche Mode",
+    "songs": [1, 2, 3, 4, 5]
+  },
+  {
+    "id": 2,
+    "name": "After hours",
+    "imageUrl": "https://res.cloudinary.com/dmnyizy0f/image/upload/v1710098919/zxlnbnbbx8n731ay9hdz.jpg",
+    "artist": "The Weekend",
+    "songs": [6, 7, 8, 9, 10]
+  },
+  {
+    "id": 3,
+    "name": "Future nostalgia",
+    "imageUrl": "https://res.cloudinary.com/dmnyizy0f/image/upload/v1710099013/j6ij58k2urcsqb941xve.jpg",
+    "artist": "Dua Lipa",
+    "songs": [11, 12, 13, 14, 15]
+  },
+  {
+    "id": 4,
+    "name": "The Marshall Mathers LP",
+    "imageUrl": "https://res.cloudinary.com/dmnyizy0f/image/upload/v1710099082/fc8h3uflvdahak7rtagg.jpg",
+    "artist": "Eminem",
+    "songs": [16, 17, 18, 19, 20]
+  }
+]
